@@ -1,0 +1,40 @@
+
+a:link{
+	color:Brown;
+  text-decoration: none;
+  background-color: white;
+}
+a:visited{
+	color:Red;
+  text-decoration: none;
+  background-color: white;
+}
+
+a:hover{
+	font-weight: bold;
+  text-decoration: none;
+  background-color: white;
+}
+
+footer {
+  font-size: 14px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  color: black;
+  text-align: center;
+  position: relative;
+}
+header {
+  font-size: 70px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  color: black;
+  text-align: center;
+}
+h1 {
+  background-color: white;
+}
